@@ -1,0 +1,6 @@
+name: BedrockCore-WordScrambler
+main: com.bedrockcore.wordscrambler.WordScramblerPlugin
+version: "1.0.0"
+api: [ "2.0.0" ]
+load: POSTWORLD
+authors: ["BedrockCore Studios", "Acktar"]
