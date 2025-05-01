@@ -11,10 +11,10 @@ A PowerNukkitX plugin that broadcasts scrambled words at regular intervals. Play
 
 ## Screenshots
 
-![Scramble Example](https://example.com/scramble1.png)
-*Broadcast with ASCII, divider, and scramble*
+![Scramble Example](https://github.com/acktarbadulla/PowernukkitX-Economy-Bundle/blob/main/WordScrambler/IMG_20250501_162902.jpg)
+*Broadcast with divider, and scramble*
 
-![Winning Example](https://example.com/scramble2.png)
+![Winning Example](https://github.com/acktarbadulla/PowernukkitX-Economy-Bundle/blob/main/WordScrambler/Screenshot_2025-05-01-16-04-59-24_70482d039613b80a94c774c51a1e8f86.jpg)
 *Player answers correctly and wins money*
 
 ## Configuration
