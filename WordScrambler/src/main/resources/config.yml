@@ -1,0 +1,22 @@
+# Configuration file for this lame plugin (WordScrambler)
+
+scramble_interval: 60 #time between each scramble games in seconds 
+scramble_completion_message: "§l§e{player} §aanswered the scrambler correctly and won a prize of $§e{money}" #placeholders {player} {answer} and {money}
+no_answer_message: "§l§c⤅ No one answered wordscramble, move on to the next wordscramble..." # No anwser message
+scramble_delay_solved: 5 # Delay to start next game after one is solved
+
+# rewards will be generated randomly based on the 2 numbers below
+prize_min: 1000 # minimum rewards price
+prize_max: 10000 # maximum rewards price
+
+# words to scramble
+words:
+  - plugin
+  - minecraft
+  - economy
+  - scramble
+  - llama
+  - nukkit
+  - java
+  - winner
+  
